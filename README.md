@@ -1,2 +1,2 @@
 # PictureBed01
-## 这里是==BronzeTreeing青铜神树==的图床PictureBed01
+## 这里是BronzeTreeing青铜神树的图床PictureBed01
